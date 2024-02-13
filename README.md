@@ -84,4 +84,24 @@ lr.fit(x_train, y_train)  # Modeli eğitim verileriyle eğittik
 y_head = lr.predict(x_test)  # Test verileri üzerinde modeli kullanarak tahmin yaptık
 ```
 
+### 1.**Linear Regression (Basit Doğrusal Regresyon)**
+
+
+### 2.**Multiple Linear Regression (Çoklu Doğrusal Regresyon)**
+
+
+## 3.Polynomial Regression
+
+
+### 4.Support Vector Regression
+
+
+### 5.Decision Tree Regression
+
+
+### 6.**k-Nearest Neighbors (kNN) Classifier**
+
+
+### 7.Logistic Regression
+
 
