@@ -90,7 +90,7 @@ y_head = lr.predict(x_test)  # Test verileri üzerinde modeli kullanarak tahmin 
 ### 2.**Multiple Linear Regression (Çoklu Doğrusal Regresyon)**
 
 
-## 3.Polynomial Regression
+### 3.Polynomial Regression
 
 
 ### 4.Support Vector Regression
