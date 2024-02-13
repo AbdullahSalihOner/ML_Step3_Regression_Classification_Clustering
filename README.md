@@ -71,7 +71,7 @@ Makine öğrenmesi modellerinin performansını değerlendirmek için çeşitli 
 
 Bu metrikler, modelin performansını değerlendirmek ve farklı modelleri karşılaştırmak için kullanılır. Hangi metriğin kullanılacağı, problemin türüne ve iş gereksinimlerine bağlıdır. Biz uygulamalarımız da çoğunlukla RMSE ve R^2 değerlerini kullanacağız.
 
-- Model oluşturma ve tahmin yapma süreci ;
+- Model oluşturma ve tahmin yapma süreci örnek adımları ;
 
 ```python
 # 1) Modeli Oluştur
