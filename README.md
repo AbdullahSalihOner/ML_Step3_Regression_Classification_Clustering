@@ -104,4 +104,5 @@ y_head = lr.predict(x_test)  # Test verileri üzerinde modeli kullanarak tahmin 
 
 ### 7.Logistic Regression
 
+### 8.Random Forest Classifier
 
