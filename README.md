@@ -1,6 +1,6 @@
 <h1>MachineLearning_Step3_Regression_Classification_Clustering</h1>
 
-###SUPERVİSED LEARNING
+### SUPERVİSED LEARNING
 
 Supervised Learning (Denetimli Öğrenme), bir makine öğrenmesi yaklaşımıdır. Bu yaklaşımda, bir model, giriş verileri (features) ve bu verilere karşılık gelen çıktılar (labels) arasındaki ilişkiyi öğrenmek için eğitilir. Model, bu ilişkiyi öğrendikten sonra, çıktıları bilinmeyen yeni giriş verileri için tahminler yapabilir.
 
@@ -16,7 +16,7 @@ Ancak, Supervised Learning'in bazı dezavantajları da vardır:
 - Etiketlenmiş veri gerektirir, bu da etiketleme maliyeti olabilir.
 - Model, eğitim verilerinde görünmeyen yeni durumları genellikle iyi bir şekilde işleyemez (overfitting).
 
-###UNSUPERVISED LEARNING
+### UNSUPERVISED LEARNING
 
 Unsupervised Learning (Denetimsiz Öğrenme), bir makine öğrenmesi yaklaşımıdır. Bu yaklaşımda, bir model, giriş verileri (features) arasındaki yapıyı veya ilişkileri öğrenmek için eğitilir. Bu tür bir öğrenme, çıktı verileri (labels) olmadan gerçekleşir, bu yüzden model, verilerin içindeki gizli desenleri veya yapıları bulmaya çalışır.
 
